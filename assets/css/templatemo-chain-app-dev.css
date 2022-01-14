@@ -393,7 +393,7 @@ Estilo del Encabezado
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #ca4bf1!important;
+  color: #4b8ef1!important;
 }
 
 .header-area .main-nav .nav li:last-child a.active {
@@ -1109,7 +1109,7 @@ Estilo de Acerda de
 
 .about-us span {
   font-size: 14px;
-  color: #7a7a7a;
+  color: #2b2a2a;
 }
 
 .about-us .right-image {
