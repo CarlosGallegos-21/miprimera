@@ -152,7 +152,7 @@ body {
 
 .section-heading h4 em {
   font-style: normal;
-  color: #b44bf1;
+  color: #4b8ef1;
 }
 
 .section-heading img {
@@ -212,8 +212,8 @@ body {
   color: #fff !important;
   text-transform: capitalize;
   font-size: 15px;
-  background: rgb(197, 108, 238);
-  background: linear-gradient(105deg, rgb(179, 13, 230) 0%, rgb(224, 145, 248) 100%);
+  background: #4b8ef1;
+  background: linear-gradient(105deg, #4b8ef1 0%, #639aeb 100%);
   border-radius: 23px;
   font-weight: 500 !important;
   letter-spacing: 0.3px !important;
@@ -282,7 +282,7 @@ Estilo del Encabezado
   position: absolute;
   width: 100%;
   height: 1px;
-  background-color: #bc4bf1;
+  background-color: #4b8ef1;
   content: '';
   left: 50%;
   bottom: -20px;
@@ -402,7 +402,7 @@ Estilo del Encabezado
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #bc4bf1!important;
+  color: #4b8ef1!important;
   opacity: 1;
 }
 
@@ -604,7 +604,7 @@ Estilo del Encabezado
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #b44bf1;
+  color: #4b8ef1;
 }
 
 @media (max-width: 1200px) {
@@ -644,7 +644,7 @@ Estilo del Encabezado
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #ca4bf1!important;
+    color: #4b8ef1!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -914,7 +914,7 @@ Estilo del Banner
 }
 
 .main-banner .left-content .white-button a {
-  background-color: #bc4bf1;
+  background-color: #4b8ef1;
   color: #fff !important;
 }
 
@@ -1099,7 +1099,7 @@ Estilo de Acerda de
 }
 
 .about-us .box-item:hover h4 a {
-  color: #c24bf1;
+  color: #4b8ef1;
 }
 
 .about-us .gradient-button {
@@ -1195,7 +1195,7 @@ Los Clientes
 .the-clients .naccs .menu div.active i,
 .the-clients .naccs .menu div.active span.rating,
 .the-clients .naccs .menu div.active .thumb {
-  color: #d54bf1;
+  color: #4b8ef1;
 }
 
 .the-clients ul.nacc {
@@ -1587,7 +1587,7 @@ footer #search button {
 
 footer #search button:hover {
   background-color: #fff;
-  color: #d04bf1;
+  color: #4b8ef1;
 }
 
 .footer-widget .logo img {
@@ -1682,13 +1682,13 @@ Surgir
 
 .btn {
   padding: 10px 20px;
-  background: #ca4bf1;
+  background: #4b8ef1;
   color: #fff;
   transition: all .3s;
 }
 
 .btn_red {
-  background: #d04bf1;
+  background: #4b8ef1;
   color: #FFF;
 }
 
@@ -1741,7 +1741,7 @@ a.btn_red {
   right: 0;
   top: 0;
   padding: 10px 15px;
-  background: #c24bf1;
+  background: #4b8ef1;
   cursor: pointer;
   color: #fff;
   font-size: 16px;
@@ -1952,7 +1952,7 @@ responsive
     margin-right: 0;
   }
   .main-banner .left-content .white-button a {
-    background-color: #bc4bf1;
+    background-color: #4b8ef1;
     color: #fff !important;
   }
   form#contact {
