@@ -397,7 +397,7 @@ Estilo del Encabezado
 }
 
 .header-area .main-nav .nav li:last-child a.active {
-  color: #fff !important;
+  color: #000000 !important;
 }
 
 .background-header .main-nav .nav li:hover a,
@@ -1682,13 +1682,13 @@ Surgir
 
 .btn {
   padding: 10px 20px;
-  background: #4b8ef1;
+  background: #ca4bf1;
   color: #fff;
   transition: all .3s;
 }
 
 .btn_red {
-  background: #4b8ef1;
+  background: #d04bf1;
   color: #FFF;
 }
 
@@ -1741,7 +1741,7 @@ a.btn_red {
   right: 0;
   top: 0;
   padding: 10px 15px;
-  background: #5ef14b;
+  background: #c24bf1;
   cursor: pointer;
   color: #fff;
   font-size: 16px;
